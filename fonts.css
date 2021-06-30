@@ -1,12 +1,12 @@
 @font-face {
-  font-family: 'DarcieHandwriting';
+  font-family: 'DarciesHandwriting';
   font-style: normal;
   font-weight: 400;
   src: url(https://sebastian54.github.io/sebfonts/Darcie_markerpen-Regular.ttf) format('ttf');
   unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 @font-face {
-  font-family: 'SebHandwriting';
+  font-family: 'SebsHandwriting';
   font-style: normal;
   font-weight: 400;
   src: url(https://sebastian54.github.io/sebfonts/Seb_markerpen-Regular.ttf) format('ttf');

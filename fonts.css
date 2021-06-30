@@ -1,15 +1,17 @@
 @font-face {
-  font-family: 'DarcieHandwriting';
-  font-style: normal;
-  font-weight: 400;
-  src: url(https://sebastian54.github.io/sebfonts/Darcie_markerpen-Regular.woff2) format('woff2');
-  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+    font-family: 'darcie_markerpenregular';
+    src: url('darcie_markerpen-regular-webfont.woff2') format('woff2'),
+         url('darcie_markerpen-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
 @font-face {
-  font-family: 'SebHandwriting';
-  font-style: normal;
-  font-weight: 400;
-  src: url(https://sebastian54.github.io/sebfonts/Seb_markerpen-Regular.woff2) format('woff2');
-  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+    font-family: 'seb_markerpenregular';
+    src: url('seb_markerpen-regular-webfont.woff2') format('woff2'),
+         url('seb_markerpen-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }

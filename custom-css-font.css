@@ -8,5 +8,5 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
     font-family: var(--customFont) !important;
 }
 .ace_editor {
-    font: 30px/normal Monaco,Menlo,'Ubuntu Mono',Consolas,source-code-pro,monospace !important;
+    font: 40px/normal Monaco,Menlo,'Ubuntu Mono',Consolas,source-code-pro,monospace !important;
 }

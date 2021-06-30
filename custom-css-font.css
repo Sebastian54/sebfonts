@@ -8,5 +8,5 @@ body:not([class*=hljs]):not(code):not([class*=seb_]) {
     font-family: var(--customFont) !important;
 }
 .seb_editor {
-    font: 22px/normal Monaco,Menlo,'Ubuntu Mono',Consolas,source-code-pro,monospace !important;
+    font: 23px/normal Monaco,Menlo,'Ubuntu Mono',Consolas,source-code-pro,monospace !important;
 }

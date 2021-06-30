@@ -1,0 +1,12 @@
+/**
+* @name Seb's Font
+* @version 1
+* @description seb's handwriting because cool
+* @author Seb
+* @Source https://github.com/Sebastian54
+* @website https://github.com/Sebastian54
+*/
+@import url('https://sebastian54.github.io/sebfonts/custom-css-font.css');
+:root {
+--customFont: 'Seb_markerpen';
+}
